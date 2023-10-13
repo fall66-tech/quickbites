@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/quickbites/static/css/main.654e2893.css",
+    "main.js": "/quickbites/static/js/main.ef1cfd1c.js",
+    "index.html": "/quickbites/index.html",
+    "main.654e2893.css.map": "/quickbites/static/css/main.654e2893.css.map",
+    "main.ef1cfd1c.js.map": "/quickbites/static/js/main.ef1cfd1c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.654e2893.css",
+    "static/js/main.ef1cfd1c.js"
+  ]
+}
